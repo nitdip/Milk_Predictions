@@ -14,6 +14,6 @@ The model being used was an LSTM model that took the past 4 weeks of data to try
 
 ### Predictions vs Actual Data
 
-<img src='images/predictions'>
+<img src='images/predictions.png'>
 
 The model wasn't very accurate. Adding more data or trying a traditional machine learning model might yield better results.
